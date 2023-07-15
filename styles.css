@@ -1,0 +1,13 @@
+* {
+    display:flex;
+    background-color: chocolate;
+    box-sizing: border-box;
+    flex-direction: column;
+}
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+img {
+    display: block;
+    width: 100%;
+}
